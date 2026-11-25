@@ -9,7 +9,7 @@ import React, { useState, useEffect } from 'react';
 
 import { Text3D } from '@react-three/drei'
 
-const raw = `https://raw.githubusercontent.com/lagom-QB/lagom-QB/main/README.md`;
+const raw = `https://raw.githubusercontent.com/b-qt/b-qt/main/README.md`;
 
 const ThreeDText = ({ text, position, fontSize }) => {
   return (
